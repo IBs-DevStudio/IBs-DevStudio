@@ -1,24 +1,52 @@
-# Hi, I'm Ikram 👋
+### Hello, I’m Ikram 👋  
+🚀 Full-Stack & AI Developer | Building Production-Ready SaaS & AI Systems  
 
-🚀 Full-Stack & AI Engineer  
-🧠 Building production-ready SaaS & AI systems  
-📍 India  
+![Profile Views](https://komarev.com/ghpvc/?username=IBs-DevStudio&label=Profile%20Views&color=blue&style=flat)
 
-## 🔥 What I Do
-- Build scalable web apps with Next.js & TypeScript
-- Design AI-powered products (LLMs, voice, automation)
-- Focus on real-world impact, not just demos
+---
+
+## 🧠 About Me
+- 💻 Full-stack developer focused on **real-world, production-ready applications**
+- 🤖 Passionate about **AI-powered learning, automation & developer tools**
+- 🧩 Strong interest in **system design, scalability & clean architecture**
+- 🌍 Based in **India**
+
+---
+
+## 🔥 What I’m Currently Working On
+- AI-powered learning & tutoring platforms  
+- Browser-based video & screen recording systems  
+- Developer productivity tools (CLI & SaaS)
+
+---
 
 ## 🛠 Tech Stack
-Frontend: Next.js, React, Tailwind  
-Backend: Node.js, Prisma, PostgreSQL  
-AI: LLMs, Prompt Engineering, RAG  
-Tools: Git, Docker, Cloud, CI/CD  
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Prisma, PostgreSQL  
+**AI / GenAI:** LLMs, Prompt Engineering, RAG  
+**Tools:** Git, Docker, Cloud Platforms, CI/CD  
+
+---
 
 ## 🚀 Featured Projects
-- **Cogniva** – AI tutoring & interview prep platform  
-- **RecordKaro** – Browser-based screen recording system  
-- **Indra Netra** – AI-based real-time detection system  
+- **Cogniva** – AI tutoring & interview preparation platform  
+- **RecordKaro** – Browser-based screen recording & video delivery system  
+- **Indra Netra** – Real-time AI-based detection system  
+- **Orbix CLI** – Developer productivity command-line tool  
 
-## 📫 Connect
-LinkedIn: https://linkedin.com/in/ikrambanadarwebdev
+👉 Check pinned repositories for details.
+
+---
+
+## 📊 GitHub Stats
+![Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IBs-DevStudio&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/ikrambanadarwebdev  
+- 📧 Email: ikrmbenedir@gmail.com  
+
+---
+
+⭐ *I focus on impact, clarity, and building software that solves real problems.*
