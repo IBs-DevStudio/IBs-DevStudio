@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ikram 👋
 
-<!--
-**IBs-DevStudio/IBs-DevStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack & AI Engineer  
+🧠 Building production-ready SaaS & AI systems  
+📍 India  
 
-Here are some ideas to get you started:
+## 🔥 What I Do
+- Build scalable web apps with Next.js & TypeScript
+- Design AI-powered products (LLMs, voice, automation)
+- Focus on real-world impact, not just demos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Frontend: Next.js, React, Tailwind  
+Backend: Node.js, Prisma, PostgreSQL  
+AI: LLMs, Prompt Engineering, RAG  
+Tools: Git, Docker, Cloud, CI/CD  
+
+## 🚀 Featured Projects
+- **Cogniva** – AI tutoring & interview prep platform  
+- **RecordKaro** – Browser-based screen recording system  
+- **Indra Netra** – AI-based real-time detection system  
+
+## 📫 Connect
+LinkedIn: https://linkedin.com/in/ikrambanadarwebdev
