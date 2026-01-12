@@ -1,6 +1,8 @@
 ### Hello, I’m Ikram 👋  
 🚀 Full-Stack & AI Developer | Building Production-Ready SaaS & AI Systems  
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=36BCF7&lines=Full+Stack+Developer;AI+%26+GenAI+Builder;SaaS+%26+System+Design+Focused)
 
 ---
@@ -22,7 +24,6 @@
 
 ## 🛠 Tech Stack
 
-
 ### 🚀 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,npm" />
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
+---
 
 ### ⚙️ Backend & Databases
 <p align="left">
@@ -39,6 +41,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
+---
 
 ### 🤖 AI / GenAI
 <p align="left">
@@ -48,6 +51,7 @@
   <img src="https://img.shields.io/badge/RAG-Architecture-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
+---
 
 ### 🧰 Production Tools & Cloud
 <p align="left">
