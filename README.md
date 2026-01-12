@@ -22,26 +22,39 @@
 
 ## 🛠 Tech Stack
 
+
 ### 🚀 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,npm" />
+  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
+
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mongodb,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
+
 
 ### 🤖 AI / GenAI
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Architecture-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### 🧰 Tools & DevOps
+
+### 🧰 Production Tools & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+  <img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Load%20Balancer-ALB-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
