@@ -73,14 +73,16 @@
 
 ---
 
-## 📊 GitHub Stats
-![Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IBs-DevStudio&show_icons=true&theme=radical)
+## 📊 GitHub Activity
+- Actively building and maintaining production-grade projects  
+- Consistent commits across SaaS, AI, and backend systems  
+- Focused on quality, documentation, and scalability  
 
 ---
 
 ## 📫 Let’s Connect
 - 💼 LinkedIn: https://linkedin.com/in/ikrambanadarwebdev  
-- 📧 Email: ikrmbenedir@gmail.com  
+- 📧 Email: ikrambanadar04@gmail.com  
 
 ---
 
